@@ -1,0 +1,30 @@
+.top-header{
+    background-color: rgba(3, 3, 3, 0.6);
+}
+.navbar.navbar-default{
+    background-color: rgba(3, 3, 3, 0.4);
+}
+.navbar-default .navbar-nav>li>a, .navbar-default .navbar-nav>li>a:focus, .navbar-default .navbar-nav>li>a:visited{
+    color: #ffffff;
+}
+a:hover, .account-menu li a:hover, .menu-items > li > a:hover, .menu-title > a:hover, .menu-p-title:hover, .cart-info .product-name a:hover, .cart-info .product-attributes a:hover, .remove-link a, .product-tabs .nav-tabs>li>a:hover, .product-tabs .nav-tabs>li.active>a, .star-on, .price, .post-title:hover, .sidebar-menu>.more-menu-item>a{
+    color: #ff5400;
+}
+.btn, .btn:focus, .btn:visited, .btn-solid, .top-select li.selected a, .top-select li:hover a, .navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:focus, .navbar-default .navbar-nav>.active>a:hover, .navbar-default .navbar-nav>li>a:hover, .navbar-default .navbar-nav>li:hover>a, .nav-search-form [type=submit], .attr-group .sale, .quick-view-btn:hover, .shop-btn:hover, .box-icon, .sidebar-nav-module .module-title, .widget-tag:hover, .sidebar-banner-carousel .owl-dot.active, .shop-cart-btn{
+    background-color: #ff5400;
+}
+.btn, .nav-search-form:before, .nav-search-form [type=submit], .shop-btn:hover, .shop-cart-btn{
+    border-color: #ff5400;
+}
+.btn:hover{
+    background-color: #3f3f3f;
+    color: #ffffff;
+    border-color: #3f3f3f;
+}
+.nav-search-form:before{
+    border-left-color: transparent;
+    border-right-color: transparent;
+}
+.countdown{
+    background-color: rgba(255, 84, 0, 0.8);
+}
