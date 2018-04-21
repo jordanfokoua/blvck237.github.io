@@ -107,7 +107,7 @@ a:focus *, form *:focus{
     outline: none;
 }
 a:hover{
-    color: #FF6600;
+    color: #ffa200;
     text-decoration: none;
 }
 ul{
@@ -147,7 +147,7 @@ ul{
 -----------------------------------------------------------------------*/
 .btn, .btn:focus, .btn:visited{
     color: #ffffff;
-    background-color: #FF6600;
+    background-color: #ffa200;
     border-radius: 0;
     font-family: 'Oswald', sans-serif;
     font-size: 1.6rem;
@@ -157,7 +157,7 @@ ul{
     height: 40px;
 }
 .btn:hover{
-    background-color: #FF6600;
+    background-color: #ffa200;
     color: #ffffff;
 }
 
@@ -201,7 +201,7 @@ ul{
     color: #ffffff;
 }
 .top-select>li >a:hover{
-    background-color: #FF6600;
+    background-color: #ffa200;
     color: #ffffff;
 }
 .top-select>li >a>img{
@@ -275,7 +275,7 @@ ul{
 }
 .navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:focus, .navbar-default .navbar-nav>.active>a:hover, .navbar-default .navbar-nav>li:hover>a {
     color: #ffffff;
-    background-color: #FF6600;
+    background-color: #ffa200;
 }
 .m-sub-toggle{
     display: none;
@@ -333,7 +333,7 @@ ul{
     position: absolute;
     bottom: 100%;
     right: 12px;
-    border-bottom: 8px solid #FF6600;
+    border-bottom: 8px solid #ffa200;
     border-left: 8px solid transparent;
     border-right: 8px solid transparent;
 }
@@ -343,7 +343,7 @@ ul{
     float: left;
     height: 30px;
     line-height: 28px;
-    border: 1px solid #FF6600;
+    border: 1px solid #ffa200;
     background-color: transparent;
 }
 .nav-search-form [type=submit]{
@@ -353,8 +353,8 @@ ul{
     float: left;
     line-height: 28px;
     padding: 0;
-    border: 1px solid #FF6600;
-    background-color: #FF6600;
+    border: 1px solid #ffa200;
+    background-color: #ffa200;
     color: #ffffff;
 }
 
@@ -422,7 +422,7 @@ ul{
     padding-right: 20px;
 }
 .cart-info .product-name {
-    color: #FF6600;
+    color: #ffa200;
     padding: 0;
     font-size: 1.2rem;
 }
@@ -440,7 +440,7 @@ ul{
     color: #3f3f3f;
 }
 .cart-info .product-name a:hover{
-    color: #FF6600;
+    color: #ffa200;
 }
 .cart-info .product-attributes{
     padding-bottom: 10px;
@@ -449,7 +449,7 @@ ul{
     color: #999999;
 }
 .cart-info .product-attributes a:hover{
-    color: #FF6600;
+    color: #ffa200;
 }
 .cart-info .price, .cart-fee.price{
     padding: 0;
@@ -460,7 +460,7 @@ ul{
     top: 15px;
 }
 .remove-link a{
-    color: #FF6600;
+    color: #ffa200;
     display: block;
     font-size: 1.5rem;
 }
@@ -541,7 +541,7 @@ ul{
     width: 80%;
 }
 .col-5-5{
-    width: 100%:
+    width: 100%;
 }
 .col-1-3{
     width: 33.333333%;
@@ -727,11 +727,11 @@ ul{
 }
 .top-item-content .btn:hover{
     border-color: #fff;
-    background-color: #FF6600;
+    background-color: #ffa200;
 }
 .top-slider .owl-prev, .top-slider .owl-next{
     font-size: 2.4rem;
-    color: #FF6600;
+    color: #ffa200;
     line-height: 50px;
     text-align: center;
     width: 40px;
@@ -916,14 +916,14 @@ ul{
 }
 .attr-group .new{
     float: left;
-    background-color: #FF6600;
+    background-color: #ffa200;
 }
 .attr-group .sale{
     float: right;
-    background-color: #FF6600;
+    background-color: #ffa200;
 }
 .quick-view-btn{
-    background-color: #FF6600;
+    background-color: #ffa200;
     color: #ffffff !important;
     line-height: 2;
     padding: 3px 15px;
@@ -939,7 +939,7 @@ ul{
     visibility: visible;
 }
 .quick-view-btn:hover{
-    background-color: #FF6600;
+    background-color: #ffa200;
     color: #ffffff;
 }
 .quick-view-btn i{
@@ -996,16 +996,16 @@ ul{
 }
 .shop-cart-btn{
     width: calc(100% - 120px);
-    background-color: #FF6600;
-    border-color: #FF6600;
+    background-color: #ffa200;
+    border-color: #ffa200;
     color: #ffffff !important;
 }
 .shop-cart-btn i{
     margin-right: 8px;
 }
 .shop-btn:hover{
-    background-color: #FF6600;
-    border-color: #FF6600;
+    background-color: #ffa200;
+    border-color: #ffa200;
     color: #ffffff !important;
 }
 .detail-wrap {
@@ -1026,18 +1026,18 @@ ul{
     content: "\f006";
     font-family: "FontAwesome";
     font-size: 1.2rem;
-    color: #FF6600;
+    color: #ffa200;
 }
 .star-on:before{
     content: "\f005";
-    color: #FF6600;
+    color: #ffa200;
 }
 .price{
     font-family: 'Open Sans', sans-serif;
     font-weight: 700;
     font-size: 1.4rem;
     line-height: 100%;
-    color: #FF6600;
+    color: #ffa200;
     vertical-align: middle;
     padding: 0 12px;
     margin: 0;
@@ -1103,7 +1103,7 @@ ul{
     box-shadow: -1px 0 0 0 #dddddd;
 }
 .nav-tabs>li.active>a, .nav-tabs>li.active>a:focus, .nav-tabs>li.active>a:hover {
-    color: #FF6600;
+    color: #ffa200;
     cursor: default;
     background-color: transparent;
     border: none;
@@ -1147,7 +1147,7 @@ ul{
     line-height: 48px;
     height: 48px;
     width: 48px;
-    background-color: #FF6600;
+    background-color: #ffa200;
     border-radius: 50%;
     color: #ffffff;
     margin-right: 16px;
@@ -1296,7 +1296,7 @@ ul{
     margin-bottom: 15px;
 }
 .readmore{
-    color: #FF6600 !important;
+    color: #ffa200 !important;
     display: inline-block;
 }
 .post-date{
@@ -1354,7 +1354,7 @@ ul{
 18 - Sidebar Nav
 -----------------------------------------------------------------------*/
 .sidebar-nav-module .module-title {
-    background-color: #FF6600;
+    background-color: #ffa200;
     color: #ffffff;
     padding: 10px 15px;
     margin: 0;
@@ -1402,7 +1402,7 @@ ul{
     font-family: "FontAwesome";
 }
 .sidebar-menu>.more-menu-item>a{
-    color: #FF6600;
+    color: #ffa200;
 }
 .cat-sub {
     position: absolute;
@@ -1561,7 +1561,7 @@ ul{
     font-size: 1.3rem;
     color: #ffffff !important;
     display: inline-block;
-    background-color: #FF6600;
+    background-color: #ffa200;
     height: 35px;
     line-height: 35px;
     padding: 0 12px;
@@ -1589,7 +1589,7 @@ ul{
     background-color: #ffffff;
 }
 .sidebar-slider-module .owl-dot.active{
-    background-color: #FF6600;
+    background-color: #ffa200;
 }
 
 /*-----------------------------------------------------------------------
@@ -1913,7 +1913,7 @@ footer.style-2{
 .product-link{
     display: none;
     margin: 15px 0 25px;
-    color: #FF6600;
+    color: #ffa200;
 }
 .list_mode .product-link{
     display: inline-block;
@@ -1923,16 +1923,16 @@ footer.style-2{
 }
 .list_mode .shop-btn{
     border-color: #3f3f3f;
-    background-color: #FF6600;
+    background-color: #ffa200;
     color: #ffffff;
 }
 .list_mode .shop-btn:hover{
-    background-color: #FF6600;
-    border-color: #FF6600;
+    background-color: #ffa200;
+    border-color: #ffa200;
 }
 .list_mode .shop-cart-btn{
-    background-color: #FF6600;
-    border-color: #FF6600;
+    background-color: #ffa200;
+    border-color: #ffa200;
 }
 
 /*** Product Filter ***/
@@ -2054,15 +2054,15 @@ footer.style-2{
     width: 14px;
 }
 .ui-state-default {
-    background: #FF6600;
+    background: #ffa200;
     border-color: #3f3f3f;
     border-radius: 50%;
     width: 14px;
     height: 14px;
 }
 .ui-state-default:last-child {
-    background: #FF6600;
-    border-color: #FF6600;
+    background: #ffa200;
+    border-color: #ffa200;
 }
 .range-data {
     border: none;
@@ -2211,17 +2211,17 @@ footer.style-2{
 }
 .pagination>li>a, .pagination>li>a:focus{
     border-color: #fff;
-    background-color: #FF6600;
+    background-color: #ffa200;
     color: #ffffff;
 }
 .pagination>li:first-child>a, .pagination>li:last-child>a{
-    border-color: #FF6600;
+    border-color: #ffa200;
     background-color: transparent;
-    color: #FF6600;
+    color: #ffa200;
 }
 .pagination>.current>a, .pagination>li:hover>a{
-    background-color: #FF6600;
-    border-color: #FF6600;
+    background-color: #ffa200;
+    border-color: #ffa200;
     color: #ffffff;
 }
 .product-showing{
@@ -2334,7 +2334,7 @@ footer.style-2{
 }
 .attr-val{
     margin-left: 20px;
-    color: #FF6600;
+    color: #ffa200;
 }
 .product-single .product-description{
     display: block;
@@ -2455,7 +2455,7 @@ footer.style-2{
 }
 .product-info-tabs .nav-tabs>li.active>a, .product-info-tabs .nav-tabs>li.active>a:focus, .product-info-tabs .nav-tabs>li.active>a:hover, .product-info-tabs .nav>li:hover>a:focus, .product-info-tabs .nav>li>a:hover{
     color: #ffffff;
-    background-color: #FF6600;
+    background-color: #ffa200;
 }
 .product-info-tabs .tab-pane{
     border: none;
@@ -2523,8 +2523,8 @@ footer.style-2{
     background-color: #2a2a2a;
 }
 .cart-step.current{
-    background-color: #FF6600;
-    border-color: #FF6600;
+    background-color: #ffa200;
+    border-color: #ffa200;
     color: #ffffff;
 }
 .cart-step.complete{
@@ -2701,7 +2701,7 @@ footer.style-2{
     float: left;
     display: inline-block;
     text-align: center;
-    background-color: #FF6600;
+    background-color: #ffa200;
     height: 32px;
     width: 32px;
     line-height: 32px;
@@ -2765,7 +2765,7 @@ footer.style-2{
     width: 60px;
     height: 60px;
     line-height: 60px;
-    background-color: #FF6600;
+    background-color: #ffa200;
     border-radius: 50%;
     font-size: 2.4rem;
     color: #ffffff;
@@ -2814,7 +2814,7 @@ footer.style-2{
     color: #3f3f3f;
 }
 .post-title a:hover{
-    color: #FF6600;
+    color: #ffa200;
 }
 .post-metas{
     margin-bottom: 10px;
