@@ -339,7 +339,7 @@ ul{
 }
 .nav-search-form [type=search]{
     width: 258px;
-    padding: 0 15px;
+    padding: 6px 15px;
     float: left;
     height: 30px;
     line-height: 28px;
@@ -1356,7 +1356,7 @@ ul{
 .sidebar-nav-module .module-title {
     background-color: #ffa200;
     color: #ffffff;
-    padding: 10px 15px;
+    padding: 15px 15px;
     margin: 0;
     border: none;
     box-shadow: none;
@@ -1371,7 +1371,7 @@ ul{
     text-transform: uppercase;
     font-weight: 700;
     font-family: 'Oswald', sans-serif;
-    padding: 0 15px;
+    padding: 6px 15px;
     line-height: 43px;
     width: calc(100% - 44px);
     float: left;
@@ -1431,7 +1431,7 @@ ul{
     margin-top: 30px;
 }
 .cat-col{
-    padding: 0 15px;
+    padding: 6px 15px;
     display: inline-block;
 }
 .col-1 {
@@ -1497,7 +1497,7 @@ ul{
     border: none;
     background-color: #cdcdcd;
     width: 100%;
-    padding: 0 15px;
+    padding: 6px 15px;
     text-align: center;
     margin-bottom: 15px;
 }
@@ -1641,7 +1641,7 @@ ul{
     height: 40px;
     line-height: 40px;
     width: calc(100% - 115px);
-    padding: 0 15px;
+    padding: 6px 15px;
 }
 .subscribe-form [type=submit]{
     height: 40px;
@@ -2403,7 +2403,7 @@ footer.style-2{
     display: inline-block;
     height: 40px;
     line-height: 40px;
-    padding: 0 15px;
+    padding: 6px 15px;
     background-color: #f1f1f1;
     color: #888888;
     font-size: 1.4rem;
@@ -2589,7 +2589,7 @@ footer.style-2{
     width: 100%;
     line-height: 40px;
     height: 40px;
-    padding: 0 15px;
+    padding: 6px 15px;
     margin-bottom: 15px;
     border: 1px solid #dddddd;
 }
@@ -2597,7 +2597,7 @@ footer.style-2{
     display: block;
     width: 100%;
     line-height: 40px;
-    padding: 0 15px;
+    padding: 6px 15px;
     margin-bottom: 15px;
     border: 1px solid #dddddd;
 }
